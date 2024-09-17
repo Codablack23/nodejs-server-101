@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-server-101",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "server",
+    "nodejs",
+    "lectures"
+  ],
+  "author": "codablack",
+  "license": "ISC"
+}

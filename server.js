@@ -30,6 +30,7 @@ const server = http.createServer( (req, res)=>{
         res.end(template)
     })
 })
+
 server.listen(PORT,()=>{
     console.log(`Server started at ${PORT} \nurl: http://localhost:${PORT}`)
 })
